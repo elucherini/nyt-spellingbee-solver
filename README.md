@@ -10,5 +10,5 @@ This script uses a simple linear search algorithm in a dictionary of English wor
 
 **Example:**
 
-`python3 solve.py -l w a m o n l k -r n`
+`python3 solve.py -l w a m o l k -r n`
 
